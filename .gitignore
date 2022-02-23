@@ -1,0 +1,3 @@
+# Remove .csv files
+*.csv
+*.cache
